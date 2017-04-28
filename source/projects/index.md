@@ -7,6 +7,13 @@ date: 2017-03-23 20:41:25
 
 Projects that I've worked on professionaly and personally.
 
+## [LUKE 311](http://getluke311.com/)
+A hybrid app that give small communities the ability to manage utility requests.
+
+I worked on all distributions of the app. I added quality of life imporvements, bug-fixes, and analytic reporting tools for the admins of the communities we service.
+
+September 2016
+
 ## [Portfolio in Angular 2.0.0-rc.4](https://kbyedev.com)
 
 As an eager adopter of Angular 2, I created a version of my portfolio in RC4 of Angular 2.
