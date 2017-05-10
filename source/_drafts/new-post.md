@@ -1,0 +1,4 @@
+---
+title: new-post
+tags:
+---

@@ -7,10 +7,38 @@ date: 2017-03-23 20:41:25
 
 Projects that I've worked on professionaly and personally.
 
+## [Brazoria Drainage District 4]
+An internal web application for Brazoria Drainage District 4.
+
+This application is a more refined application of Angular 2 with ngRx and Material 2. The backend primarly a NodeJS with ExpressJS proxy to an ArcGIS webservice.
+
+Notable contributions:
+
+- Create code style guide for future Angular applications
+- Handled user store encryption and basic security
+
+## [MS4Web 2.0](https://stormwater.ms4web.com/)
+A web app to help manage MS4 Water permit compliance and inspections.
+
+I worked mostly on the frontend of this application. This is an early application of Angular 2 with ngRx and Material 2. The backend is a single NodeJS process using ExpressJS written in Typescript.
+
+Notable contributions:
+
+- Developed core CRUD functionality to manage permits and inspections
+- Created granular user roles to increase licensing sales
+- Add support for tier-like plans to increase licensing sales
+- Add support for configurable user and customer settings to increase licensing sales
+- Fixed Angular AoT compliation to reduce JS bundle size by over 60%
+
 ## [LUKE 311](http://getluke311.com/)
 A hybrid app that give small communities the ability to manage utility requests.
 
-I worked on all distributions of the app. I added quality of life imporvements, bug-fixes, and analytic reporting tools for the admins of the communities we service.
+I worked on all distributions of the app. This included working with BackboneJS and IonicJS.
+
+Notable contributions:
+
+- Quality of life imporvements and bug-fixes to increase user retention
+- Analytic reporting tools for the admins to increase licensing sales
 
 September 2016
 
