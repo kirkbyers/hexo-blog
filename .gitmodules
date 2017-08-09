@@ -1,0 +1,3 @@
+[submodule "themes/cactus-dark-lite"]
+	path = themes/cactus-dark-lite
+	url = https://github.com/kirkbyers/cactus-dark
