@@ -1,7 +1,9 @@
 ---
 title: Pokemon-Go-Plus
 tags: pokemongo
+date: 2017-08-08 22:05:32
 ---
+
 I got a Pokemon Go Plus a few months back. I've been off and on playing Pokemon Go for a little while, but I've been more since I got the Go Plus. So far, I'm really enjoying it. However, I thin $30 is still a little steep.
 
 I'm definitely exercising more. The Go Plus makes it way more convenient to play Pokemon Go in general. I can loot a pokestops (now gyms too) and catch pokemon with a single button press without staring at my phone constantly. The price of this convenience though is decreasing my chances of successfully catching pokemon. 
