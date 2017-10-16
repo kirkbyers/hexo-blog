@@ -135,6 +135,6 @@ If we trace back all the returned "truthy true" values in order that returned ou
 
 The reason the "+ 5" gets "removed" from history is because that history value never gets returned. In step 4 above, we walk through `find(16)` having truthiness of false. Since the truthiness of the expression is false, `||` returns the right-hand expression's value from `return find(11 + 5) || find(11 * 3)`.
 
-In step 5 we see `find(33)` also has a truthiness of "false", so we evaluate the right-hand side of an ever earlier step `return find(6 + 5) || find(6 * 3)`.
+In step 5 we see `find(33)` also has a truthiness of "false", so we evaluate the right-hand side of an even earlier step `return find(6 + 5) || find(6 * 3)`.
 
 This behavior continues until a complete "truthy path" is found and the corresponding history is returned. 
