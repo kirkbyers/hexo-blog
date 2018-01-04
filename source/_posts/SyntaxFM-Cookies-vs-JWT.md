@@ -1,7 +1,9 @@
 ---
 title: SyntaxFM-Cookies-vs-JWT
+date: 2018-01-03 23:32:08
 tags:
 ---
+
 
 I listen to [Syntax.FM](https://syntax.fm). On their [recent episode](https://syntax.fm/show/026/all-about-redux-and-and-cookies-vs-jwt), Scott and Wes discuss "Cookies vs JWT". Having recently re-evaluated the pros and cons to handling user tokens via cookies or local storage, I thought it would a good time to document my findings and thoughts.
 
