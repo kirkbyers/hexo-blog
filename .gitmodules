@@ -1,3 +1,6 @@
 [submodule "themes/cactus-dark-lite"]
 	path = themes/cactus-dark-lite
 	url = https://github.com/kirkbyers/cactus-dark
+[submodule "themes/cactus-original"]
+	path = themes/cactus-original
+	url = https://github.com/probberechts/hexo-theme-cactus.git
